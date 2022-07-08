@@ -37,7 +37,7 @@ function App() {
                                 <p>{repo.description}</p>
                                 <br></br>
                                 <div className="links">
-                                    <a id="project-url" href={repo.html_url} target="_blank" rel="noopener noreferrer">View Source</a>
+                                    <a id="project-url" href={repo.html_url} target="_blank" rel="noopener noreferrer">🔗 View Source</a>
                                 </div>
                             </div>
                         )
