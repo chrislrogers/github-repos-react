@@ -24,7 +24,7 @@ function App() {
                     <a href="https://github.com/chrislrogers/github-repos-react" target="_blank" rel="noopener noreferrer">View Source</a>
                 </div>
                 <h1>Popular⭐ Repo Finder</h1>
-                <h2>Find repositories popular on GitHub!</h2>
+                <h2>Find popular repositories on GitHub!</h2>
             </div>
             <section id="repos">
                 {
